@@ -1,3 +1,10 @@
-# Simple Interest Rate Calculator
+# This is the README.md file for the **github-final-project**
 
-This fork repository contains the Simple Interest Calculator requested by the company for calculating the interest rate from our clients.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
